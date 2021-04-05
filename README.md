@@ -16,7 +16,7 @@ YeelightAPI - a simple Java library which helps you to work with your Xiaomi Yee
         }
     }
 ```
-# All methodes
+# All methods
 
 For more info use Wiki page of API documentation.
 
