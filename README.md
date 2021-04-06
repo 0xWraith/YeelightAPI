@@ -4,17 +4,17 @@ YeelightAPI - a simple Java library which helps you to work with your Xiaomi Yee
 # How to use
 
 ```java
-    public class Main
+public class Main
+{
+    public static void main(String[] args) 
     {
-        public static void main(String[] args) 
-        {
 
-            YeelightBulb bulb = new YeelightBulb("192.168.0.100");
+        YeelightBulb bulb = new YeelightBulb("192.168.0.100");
 
-            bulb.setRGBColor(255, 255, 255); //Set bulb white color
-            bulb.setBrightness(25); //Set brightness to 25%
-        }
+        bulb.setRGBColor(255, 255, 255); //Set bulb white color
+        bulb.setBrightness(25); //Set brightness to 25%
     }
+}
 ```
 # All methods
 
