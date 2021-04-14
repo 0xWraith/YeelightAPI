@@ -1,7 +1,6 @@
 package com.wraith.yeelightapi;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class YeelightAPIEffect
 {
